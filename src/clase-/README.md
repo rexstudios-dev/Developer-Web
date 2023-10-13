@@ -35,7 +35,17 @@ Este comando inicia el servidor de desarrollo de Vite que compila y sirve la apl
 
 ## Despliegue 📦
 
-_Instrucciones para desplegar el proyecto_
+Para hacer el build de producción
+```js
+npm run build
+```
+Compila la aplicación de forma optimizada para producción en la carpeta dist.
+Para desplegar la versión compilada de producción
+Copy code
+```js
+npm run serve
+```
+Levanta un servidor estático con la versión de dist para probar antes de desplegar a producción.
 
 ## Construido con 🛠️
 
