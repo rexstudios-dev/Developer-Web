@@ -14,18 +14,23 @@ cd my-project
 npm install
 npm run dev
 ```
-
+```js
 npm create vite@latest
+```
 Instala Vite 
-
+```js
 cd my-project
+```
 Instalá las dependencias del proyecto con npm
 
+```js 
 npm install
+```
 Este comando lee el archivo package.json y descarga e instala todas las librerías y dependencias necesarias para el proyecto.
 Levantá el servidor de desarrollo
-
+```js
 npm run dev
+```
 Este comando inicia el servidor de desarrollo de Vite que compila y sirve la aplicación. Permite visualizar la app en http://localhost:3000 y se actualiza automáticamente con los cambios en el código.
 
 ## Despliegue 📦
