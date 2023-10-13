@@ -6,7 +6,7 @@ Desafio N-4
 
 ### Instalación 🔧
 
-```
+```js
 Comandos de instalación
 npm create vite@latest
 cd my-project
