@@ -49,4 +49,4 @@ Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * etc.
 
 ---
-⌨️ con ❤️ por [Nombre](https://github.com/rexstudios-dev) 😊
+⌨️ con ❤️ por [By Rex Developer Full Stack](https://github.com/rexstudios-dev) 😊
