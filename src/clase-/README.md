@@ -39,14 +39,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [DOC](htt
 
 Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
-* **Nombre Apellido** - *Trabajo Inicial* - [Rex Dev](https://github.com/rexstudios-dev)
-
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/tu/proyecto/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Licencia MIT) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+* **Rex Developer** - *Trabajo Inicial* - [Rex Dev](https://github.com/rexstudios-dev)
 
 ## Expresiones de Gratitud 🎁
 
