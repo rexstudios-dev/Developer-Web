@@ -1,0 +1,109 @@
+/* Estilos generales */
+
+body {
+  background: #f5f5f5;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.app {
+  max-width: 800px; 
+  margin: 0 auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Header */
+
+.header {
+  background: #0d0a4bce;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2rem;  
+}
+
+/* Main */
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Logos */
+.logo-card {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  height: 50px;
+  margin: 0 20px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  transition: transform 0.2s ease;
+}
+.logo:hover {
+  transform: scale(1.1); /* escalar un poco al hover */
+}
+
+.logo.react:hover {
+  box-shadow: 0 0 10px #61dafb; /* sombra cyan */
+}
+
+.logo.vite:hover {
+  box-shadow: 0 0 20px #646cff; /* sombra morada */ 
+}
+
+
+.logo.react {
+  padding: 5px; 
+  background: #61dafb;
+}
+
+.logo.vite {
+  padding: 10px 15px;
+  background: #646cff; 
+}
+
+/* Media query para responsive */
+
+@media (max-width: 500px) {
+
+  .logo-card {
+    flex-direction: column;
+  }
+  
+  .logo {
+    margin: 10px 0;
+  }
+
+}
+/* Botones */
+
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  width: 100%; 
+  margin-bottom: 2rem;
+}
+
+.buttons a {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 2px solid #555;
+  border-radius: 4px;
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: #555;
+  transition: all 0.2s; 
+}
+
+.buttons a:hover {
+  background: #555;
+  color: white;
+}
